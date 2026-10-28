@@ -1,0 +1,283 @@
+{
+ "actualizado": "2026-10-26",
+ "nota": "Precios vigentes de la VTV/RTO/ITV por provincia (ARS, IVA incluido). Lo actualiza una tarea semanal de Claude; mirto.com.ar lo lee y aplica los aumentos nuevos.",
+ "provincias": {
+  "buenos-aires": {
+   "nombre": "Provincia de Buenos Aires",
+   "sigla": "VTV",
+   "precios": {
+    "auto": 114105.99,
+    "camioneta": 114105.99,
+    "moto": 45642.4,
+    "pesado": 205264,
+    "taxi": null
+   },
+   "desde": "2026-10-15",
+   "fuente": "https://www.iprofesional.com/autos/466690-la-vtv-en-provincia-subio-un-176-los-nuevos-precios-de-octubre",
+   "resolucion": "Disposición 361 del Ministerio de Transporte bonaerense"
+  },
+  "caba": {
+   "nombre": "Ciudad de Buenos Aires",
+   "sigla": "VTV",
+   "precios": {
+    "auto": 96968.19,
+    "moto": 36459.72
+   },
+   "desde": "2026-05-01",
+   "fuente": "https://www.baenegocios.com/economia/aumento-la-vtv-en-caba-y-casi-cuesta-100-000-quienes-pueden-tramitarla-gratis-6716/",
+   "resolucion": null
+  },
+  "cordoba": {
+   "nombre": "Córdoba",
+   "sigla": "ITV",
+   "precios": {
+    "auto": 56084,
+    "moto": 19829,
+    "camioneta": 80711,
+    "pesado": 112085,
+    "taxi": 64267
+   },
+   "desde": "2026-07-01",
+   "fuente": "https://www.itvcordoba.com.ar/FAQs.aspx",
+   "resolucion": null
+  },
+  "santa-fe": {
+   "nombre": "Santa Fe",
+   "sigla": "RTO",
+   "precios": {
+    "auto": 75000
+   },
+   "desde": "2026-06-01",
+   "fuente": "https://www.lacapital.com.ar/motores/cambios-la-rto-santa-fe-aun-no-cierra-completo-la-puerta-la-desregulacion-n10262774.html",
+   "resolucion": null
+  },
+  "mendoza": {
+   "nombre": "Mendoza",
+   "sigla": "RTO",
+   "precios": {
+    "auto": 58125,
+    "moto": 21875,
+    "camioneta": 64250,
+    "pesado": 79375
+   },
+   "desde": "2026-04-28",
+   "fuente": "https://www.sitioandino.com.ar/sociedad/golpe-al-bolsillo-la-rto-subio-un-25-mendoza-y-se-preven-aumentos-julio-y-octubre-n5721912",
+   "resolucion": null
+  },
+  "tucuman": {
+   "nombre": "Tucumán",
+   "sigla": "VTV",
+   "precios": {
+    "auto": 60000,
+    "moto": 22000,
+    "camioneta": 90000
+   },
+   "desde": "2026-08-05",
+   "fuente": "https://www.lagaceta.com.ar/nota/1148808/sociedad/subio-vtv-tucuman-cuales-son-valores-vigentes-cuando-hay-renovarla.html",
+   "resolucion": null
+  },
+  "entre-rios": {
+   "nombre": "Entre Ríos",
+   "sigla": "RTO",
+   "precios": {},
+   "desde": null,
+   "fuente": null,
+   "resolucion": null
+  },
+  "salta": {
+   "nombre": "Salta",
+   "sigla": "RTO",
+   "precios": {
+    "auto": 74000,
+    "camioneta": 96000,
+    "pesado": 210000,
+    "taxi": 66000
+   },
+   "desde": "2026-01-09",
+   "fuente": "https://www.tecnobussa.com/precios",
+   "resolucion": null
+  },
+  "misiones": {
+   "nombre": "Misiones",
+   "sigla": "VTV",
+   "precios": {
+    "auto": 71000,
+    "moto": 21900,
+    "camioneta": 82800,
+    "pesado": 108100,
+    "taxi": 56000
+   },
+   "desde": "2026-01-01",
+   "fuente": "https://www.lavozdemisiones.com/provinciales/aumenta-la-vtv-en-enero-autos-71-000-y-motos-a-partir-de-21-900/",
+   "resolucion": null
+  },
+  "neuquen": {
+   "nombre": "Neuquén",
+   "sigla": "RTO",
+   "precios": {},
+   "desde": null,
+   "fuente": null,
+   "resolucion": null
+  },
+  "rio-negro": {
+   "nombre": "Río Negro",
+   "sigla": "RTO",
+   "precios": {
+    "auto": 51000
+   },
+   "desde": "2026-09-19",
+   "fuente": "https://www.anbariloche.com.ar/noticias/2026/09/19/117619-rto-en-rio-negro-cuanto-puede-costar-circular-sin-la-oblea-vigente",
+   "resolucion": null
+  },
+  "chubut": {
+   "nombre": "Chubut",
+   "sigla": "RTO",
+   "precios": {
+    "auto": 80000
+   },
+   "desde": "2026-06-04",
+   "fuente": "https://www.adnsur.com.ar/sociedad/cambios-en-la-vtv--como-impactan-en-comodoro-y-quienes-deben-verificar-su-auto_a6a21c1be602379947ddba12d",
+   "resolucion": null
+  },
+  "corrientes": {
+   "nombre": "Corrientes",
+   "sigla": "RTO",
+   "precios": {
+    "auto": 100000,
+    "camioneta": 120000,
+    "pesado": 300000,
+    "taxi": 90000
+   },
+   "desde": "2026-10-10",
+   "fuente": "https://examedia.com.ar/portada/post/88028452",
+   "resolucion": null
+  },
+  "chaco": {
+   "nombre": "Chaco",
+   "sigla": "RTO",
+   "precios": {
+    "auto": 55000,
+    "camioneta": 68000,
+    "pesado": 175000,
+    "taxi": 50000
+   },
+   "desde": "2025-01-03",
+   "fuente": "https://www.actualidadchaco.com.ar/vernota.asp?id_noticia=194458",
+   "resolucion": null
+  },
+  "formosa": {
+   "nombre": "Formosa",
+   "sigla": "RTO",
+   "precios": {
+    "auto": 46000,
+    "camioneta": 57000,
+    "pesado": 150000,
+    "taxi": 46000
+   },
+   "desde": "2024-08-20",
+   "fuente": "https://neahoy.com/2024/08/20/cuales-son-los-precios-para-realizar-la-rto-en-formosa/",
+   "resolucion": null
+  },
+  "jujuy": {
+   "nombre": "Jujuy",
+   "sigla": "RTO",
+   "precios": {
+    "auto": 27000,
+    "moto": 25000,
+    "camioneta": 32000,
+    "pesado": 43000,
+    "taxi": 25000
+   },
+   "desde": "2025-01-09",
+   "fuente": "https://www.somosjujuy.com.ar/jujuy/revision-tecnica-vehicular-jujuy-conoce-requisitos-costos-horarios-n99317",
+   "resolucion": null
+  },
+  "la-pampa": {
+   "nombre": "La Pampa",
+   "sigla": "RTO",
+   "precios": {
+    "auto": 45000,
+    "camioneta": 46000,
+    "pesado": 90000,
+    "taxi": 20000,
+    "moto": 9000
+   },
+   "desde": "2025-01-01",
+   "fuente": "https://www.eldiariodelapampa.com.ar/la-pampa/37693/la-rto-en-santa-rosa-cuesta-entre-32000-y-90000-pesos",
+   "resolucion": null
+  },
+  "la-rioja": {
+   "nombre": "La Rioja",
+   "sigla": "RTO",
+   "precios": {
+    "auto": 36000,
+    "camioneta": 47000
+   },
+   "desde": "2024-10-14",
+   "fuente": "https://www.radioytelevisionriojana.com.ar/articulo/rto-la-rioja-informo-nuevas-tarifas-para-realizar-la-revision-tecnica-obligatoria.php",
+   "resolucion": null
+  },
+  "san-juan": {
+   "nombre": "San Juan",
+   "sigla": "RTO",
+   "precios": {
+    "auto": 30000,
+    "camioneta": 37000,
+    "pesado": 215000,
+    "taxi": 25000
+   },
+   "desde": "2024-10-07",
+   "fuente": "https://www.tiempodesanjuan.com/san-juan/los-nuevos-valores-actualizados-la-rto-que-deben-pagar-los-sanjuaninos-antes-salir-la-ruta-n419998",
+   "resolucion": null
+  },
+  "san-luis": {
+   "nombre": "San Luis",
+   "sigla": "RTO",
+   "precios": {
+    "auto": 48000,
+    "camioneta": 52000,
+    "moto": 25000,
+    "taxi": 30000
+   },
+   "desde": "2026-01-06",
+   "fuente": "https://lv15.com.ar/nota-177571/revision-tecnica-obligatoria-en-san-luis-donde-y-cuanto-cuesta-hacerla-para-salir-de-la-provincia-o-el-pais",
+   "resolucion": null
+  },
+  "santiago-del-estero": {
+   "nombre": "Santiago del Estero",
+   "sigla": "RTO",
+   "precios": {
+    "auto": 54000,
+    "camioneta": 60000,
+    "taxi": 48000
+   },
+   "desde": "2025-10-01",
+   "fuente": "https://www.elliberal.com.ar/nota/65086/2025/11/rto-en-santiago-del-estero--se-mantienen-los-precios-y-refuerzan-el-llamado-a-no-esperar-a-ultimo-momento",
+   "resolucion": null
+  },
+  "catamarca": {
+   "nombre": "Catamarca",
+   "sigla": "RTO",
+   "precios": {},
+   "desde": null,
+   "fuente": null,
+   "resolucion": null
+  },
+  "santa-cruz": {
+   "nombre": "Santa Cruz",
+   "sigla": "RTO",
+   "precios": {},
+   "desde": null,
+   "fuente": null,
+   "resolucion": null
+  },
+  "tierra-del-fuego": {
+   "nombre": "Tierra del Fuego",
+   "sigla": "RTO",
+   "precios": {},
+   "desde": null,
+   "fuente": null,
+   "resolucion": null
+  }
+ }
+}
