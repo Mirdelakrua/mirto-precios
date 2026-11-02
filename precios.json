@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-26",
+ "actualizado": "2026-11-02",
  "nota": "Precios vigentes de la VTV/RTO/ITV por provincia (ARS, IVA incluido). Lo actualiza una tarea semanal de Claude; mirto.com.ar lo lee y aplica los aumentos nuevos.",
  "provincias": {
   "buenos-aires": {
@@ -123,11 +123,14 @@
    "nombre": "Río Negro",
    "sigla": "RTO",
    "precios": {
-    "auto": 51000
+    "auto": 54200,
+    "moto": 27100,
+    "camioneta": 81300,
+    "pesado": 135500
    },
-   "desde": "2026-09-19",
-   "fuente": "https://www.anbariloche.com.ar/noticias/2026/09/19/117619-rto-en-rio-negro-cuanto-puede-costar-circular-sin-la-oblea-vigente",
-   "resolucion": null
+   "desde": "2026-10-01",
+   "fuente": "https://transporte.rionegro.gov.ar/rto-tarifas",
+   "resolucion": "Resolución DVR N° 659/2026"
   },
   "chubut": {
    "nombre": "Chubut",
@@ -156,40 +159,40 @@
    "nombre": "Chaco",
    "sigla": "RTO",
    "precios": {
-    "auto": 55000,
+    "auto": 70000,
     "camioneta": 68000,
     "pesado": 175000,
     "taxi": 50000
    },
-   "desde": "2025-01-03",
-   "fuente": "https://www.actualidadchaco.com.ar/vernota.asp?id_noticia=194458",
+   "desde": "2025-08-01",
+   "fuente": "https://www.chacoenalta.com/post/vtv-m%C3%A1s-cara-ya-cuesta-70-000-hacer-la-revisi%C3%B3n-t%C3%A9cnica-en-chaco",
    "resolucion": null
   },
   "formosa": {
    "nombre": "Formosa",
    "sigla": "RTO",
    "precios": {
-    "auto": 46000,
-    "camioneta": 57000,
-    "pesado": 150000,
-    "taxi": 46000
+    "auto": 70000,
+    "camioneta": 85000,
+    "pesado": 220000,
+    "taxi": 64000
    },
-   "desde": "2024-08-20",
-   "fuente": "https://neahoy.com/2024/08/20/cuales-son-los-precios-para-realizar-la-rto-en-formosa/",
+   "desde": "2025-08-14",
+   "fuente": "https://defensoriaformosa.gob.ar/?p=16463",
    "resolucion": null
   },
   "jujuy": {
    "nombre": "Jujuy",
    "sigla": "RTO",
    "precios": {
-    "auto": 27000,
+    "auto": 52000,
     "moto": 25000,
-    "camioneta": 32000,
+    "camioneta": 68000,
     "pesado": 43000,
     "taxi": 25000
    },
-   "desde": "2025-01-09",
-   "fuente": "https://www.somosjujuy.com.ar/jujuy/revision-tecnica-vehicular-jujuy-conoce-requisitos-costos-horarios-n99317",
+   "desde": "2025-11-01",
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-3-12-0-0-0-rto-ven-con-buenos-ojos-los-cambios-propuestos-por-nacion",
    "resolucion": null
   },
   "la-pampa": {
@@ -210,11 +213,13 @@
    "nombre": "La Rioja",
    "sigla": "RTO",
    "precios": {
-    "auto": 36000,
-    "camioneta": 47000
+    "auto": 50000,
+    "camioneta": 65000,
+    "moto": 26000,
+    "taxi": 29000
    },
-   "desde": "2024-10-14",
-   "fuente": "https://www.radioytelevisionriojana.com.ar/articulo/rto-la-rioja-informo-nuevas-tarifas-para-realizar-la-revision-tecnica-obligatoria.php",
+   "desde": "2025-12-10",
+   "fuente": "https://riojavirtual.com.ar/aumento-un-20-el-costo-de-la-revision-tecnica-obligatoria-rto/",
    "resolucion": null
   },
   "san-juan": {
@@ -258,9 +263,14 @@
   "catamarca": {
    "nombre": "Catamarca",
    "sigla": "RTO",
-   "precios": {},
-   "desde": null,
-   "fuente": null,
+   "precios": {
+    "auto": 44000,
+    "camioneta": 55000,
+    "moto": 15000,
+    "pesado": 155000
+   },
+   "desde": "2025-12-12",
+   "fuente": "https://www.elesquiu.com/sociedad/2025/12/12/cuanto-cuesta-hacer-la-rto-en-catamarca-esto-tenes-que-saber-antes-de-ir-564301.html",
    "resolucion": null
   },
   "santa-cruz": {
